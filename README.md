@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0283-move-zeroes) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/DronKaustub/Leetcode_dron/tree/master/1293-three-consecutive-odds) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DronKaustub/Leetcode_dron/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
