@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/DronKaustub/Leetcode_dron/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DronKaustub/Leetcode_dron/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/DronKaustub/Leetcode_dron/tree/master/0191-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/DronKaustub/Leetcode_dron/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
 ## Memoization
 |  |
