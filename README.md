@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DronKaustub/Leetcode_dron/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0004-median-of-two-sorted-arrays) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/DronKaustub/Leetcode_dron/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
