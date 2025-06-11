@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/DronKaustub/Leetcode_dron/tree/master/1293-three-consecutive-odds) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DronKaustub/Leetcode_dron/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
+| [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DronKaustub/Leetcode_dron/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DronKaustub/Leetcode_dron/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/DronKaustub/Leetcode_dron/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
 | [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
 ## Divide and Conquer
 |  |
