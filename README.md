@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/DronKaustub/Leetcode_dron/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/DronKaustub/Leetcode_dron/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/DronKaustub/Leetcode_dron/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DronKaustub/Leetcode_dron/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DronKaustub/Leetcode_dron/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/DronKaustub/Leetcode_dron/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DronKaustub/Leetcode_dron/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/DronKaustub/Leetcode_dron/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
 | [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
