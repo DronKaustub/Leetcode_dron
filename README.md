@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/DronKaustub/Leetcode_dron/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/DronKaustub/Leetcode_dron/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/DronKaustub/Leetcode_dron/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DronKaustub/Leetcode_dron/tree/master/0367-valid-perfect-square) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DronKaustub/Leetcode_dron/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/DronKaustub/Leetcode_dron/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/DronKaustub/Leetcode_dron/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/DronKaustub/Leetcode_dron/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
 ## Sorting
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DronKaustub/Leetcode_dron/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
