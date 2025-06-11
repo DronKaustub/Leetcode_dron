@@ -59,12 +59,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DronKaustub/Leetcode_dron/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/DronKaustub/Leetcode_dron/tree/master/0392-is-subsequence) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DronKaustub/Leetcode_dron/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/DronKaustub/Leetcode_dron/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DronKaustub/Leetcode_dron/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/DronKaustub/Leetcode_dron/tree/master/0392-is-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DronKaustub/Leetcode_dron/tree/master/0055-jump-game) |
+| [0392-is-subsequence](https://github.com/DronKaustub/Leetcode_dron/tree/master/0392-is-subsequence) |
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
 ## Sorting
 |  |
