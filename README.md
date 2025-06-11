@@ -49,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DronKaustub/Leetcode_dron/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DronKaustub/Leetcode_dron/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/DronKaustub/Leetcode_dron/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DronKaustub/Leetcode_dron/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/DronKaustub/Leetcode_dron/tree/master/0125-valid-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
