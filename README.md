@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/DronKaustub/Leetcode_dron/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/DronKaustub/Leetcode_dron/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0033-search-in-rotated-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0367-valid-perfect-square](https://github.com/DronKaustub/Leetcode_dron/tree/master/0367-valid-perfect-square) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
