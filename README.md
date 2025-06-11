@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DronKaustub/Leetcode_dron/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/DronKaustub/Leetcode_dron/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/DronKaustub/Leetcode_dron/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/DronKaustub/Leetcode_dron/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0073-set-matrix-zeroes) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/DronKaustub/Leetcode_dron/tree/master/0055-jump-game) |
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
 ## Sorting
 |  |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/DronKaustub/Leetcode_dron/tree/master/0059-spiral-matrix-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/DronKaustub/Leetcode_dron/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
