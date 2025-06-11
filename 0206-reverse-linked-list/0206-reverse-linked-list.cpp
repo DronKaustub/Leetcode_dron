@@ -38,3 +38,24 @@ public:
         return prev;
     }
 };
+
+/*
+//better soln
+class Solution {
+public:
+    ListNode* reverseList(ListNode* head) {
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+        ListNode* next_node = nullptr;
+
+        while (curr != nullptr) {
+            next_node = curr->next; 
+            curr->next = prev;
+            prev = curr;
+            curr = next_node;
+        }
+        
+        return prev;
+    }
+};
+*/
