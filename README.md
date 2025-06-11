@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/DronKaustub/Leetcode_dron/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DronKaustub/Leetcode_dron/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,8 +64,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/DronKaustub/Leetcode_dron/tree/master/0367-valid-perfect-square) |
+| [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
+## Sorting
+|  |
+| ------- |
+| [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
 <!---LeetCode Topics End-->
