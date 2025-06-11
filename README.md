@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/DronKaustub/Leetcode_dron/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/DronKaustub/Leetcode_dron/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/DronKaustub/Leetcode_dron/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DronKaustub/Leetcode_dron/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DronKaustub/Leetcode_dron/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/DronKaustub/Leetcode_dron/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/DronKaustub/Leetcode_dron/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DronKaustub/Leetcode_dron/tree/master/0367-valid-perfect-square) |
 | [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/DronKaustub/Leetcode_dron/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DronKaustub/Leetcode_dron/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/DronKaustub/Leetcode_dron/tree/master/0342-power-of-four) |
 ## Memoization
 |  |
 | ------- |
