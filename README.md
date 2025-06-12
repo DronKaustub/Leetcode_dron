@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/DronKaustub/Leetcode_dron/tree/master/1293-three-consecutive-odds) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DronKaustub/Leetcode_dron/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
