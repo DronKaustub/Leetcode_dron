@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/DronKaustub/Leetcode_dron/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0908-middle-of-the-linked-list) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/DronKaustub/Leetcode_dron/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DronKaustub/Leetcode_dron/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DronKaustub/Leetcode_dron/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DronKaustub/Leetcode_dron/tree/master/0342-power-of-four) |
 ## Two Pointers
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DronKaustub/Leetcode_dron/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DronKaustub/Leetcode_dron/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/DronKaustub/Leetcode_dron/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
