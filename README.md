@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DronKaustub/Leetcode_dron/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DronKaustub/Leetcode_dron/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/DronKaustub/Leetcode_dron/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/DronKaustub/Leetcode_dron/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DronKaustub/Leetcode_dron/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/DronKaustub/Leetcode_dron/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DronKaustub/Leetcode_dron/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DronKaustub/Leetcode_dron/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DronKaustub/Leetcode_dron/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DronKaustub/Leetcode_dron/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
