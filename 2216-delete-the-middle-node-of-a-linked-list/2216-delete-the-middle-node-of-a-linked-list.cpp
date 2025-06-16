@@ -17,19 +17,18 @@ public:
             return head=NULL;
         }
         //fast=fast->next;
+        fast=fast->next->next;
         while(fast&&fast->next!=nullptr){
             fast=fast->next->next;
-            if(!fast||!fast->next){break;}
+            //if(!fast||!fast->next){break;}
             slow=slow->next;
             
             cout<<slow->val;
         }
-        // if(slow->next->next==NULL){
-        //     slow->next=NULL;
-        // }
-        //else{
+        
         slow->next=slow->next->next;
-        //}
+        
+        
         return head;
     }
 };
