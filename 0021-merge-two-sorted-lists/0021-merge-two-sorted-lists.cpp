@@ -60,3 +60,45 @@ public:
         return ans;
     }
 };
+/*
+we can use an extra node to store and update for better results.
+class Solution {
+public:
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        if(list1 == NULL) return list2;
+        if(list2 == NULL) return list1;
+        
+        ListNode* head = NULL;
+        ListNode* current = NULL;
+        
+        while(list1 && list2) {
+            ListNode* nodeToAdd;
+            
+            if(list1->val <= list2->val) {
+                nodeToAdd = list1;
+                list1 = list1->next;
+            } else {
+                nodeToAdd = list2;
+                list2 = list2->next;
+            }
+            
+            if(head == NULL) {
+                head = nodeToAdd;
+                current = head;
+            } else {
+                current->next = nodeToAdd;
+                current = current->next;
+            }
+        }
+        
+        if(list1) {
+            current->next = list1;
+        }
+        if(list2) {
+            current->next = list2;
+        }
+        
+        return head;
+    }
+};
+*/
