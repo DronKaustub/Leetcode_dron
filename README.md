@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DronKaustub/Leetcode_dron/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DronKaustub/Leetcode_dron/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DronKaustub/Leetcode_dron/tree/master/0392-is-subsequence) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/DronKaustub/Leetcode_dron/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/DronKaustub/Leetcode_dron/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/DronKaustub/Leetcode_dron/tree/master/0059-spiral-matrix-ii) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/DronKaustub/Leetcode_dron/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Greedy
 |  |
 | ------- |
