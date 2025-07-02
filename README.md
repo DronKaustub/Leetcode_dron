@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/2573-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DronKaustub/Leetcode_dron/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DronKaustub/Leetcode_dron/tree/master/0342-power-of-four) |
+| [2573-remove-nodes-from-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/2573-remove-nodes-from-linked-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -246,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DronKaustub/Leetcode_dron/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2573-remove-nodes-from-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/2573-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
