@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/DronKaustub/Leetcode_dron/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DronKaustub/Leetcode_dron/tree/master/0342-power-of-four) |
+| [1013-fibonacci-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/DronKaustub/Leetcode_dron/tree/master/2573-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DronKaustub/Leetcode_dron/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/DronKaustub/Leetcode_dron/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/DronKaustub/Leetcode_dron/tree/master/0367-valid-perfect-square) |
+| [1013-fibonacci-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/1013-fibonacci-number) |
 | [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DronKaustub/Leetcode_dron/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DronKaustub/Leetcode_dron/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/DronKaustub/Leetcode_dron/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
 ## Sorting
 |  |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DronKaustub/Leetcode_dron/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
