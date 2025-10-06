@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/DronKaustub/Leetcode_dron/tree/master/1293-three-consecutive-odds) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DronKaustub/Leetcode_dron/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [3227-find-missing-and-repeated-values](https://github.com/DronKaustub/Leetcode_dron/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/1510-find-lucky-integer-in-an-array) |
+| [3227-find-missing-and-repeated-values](https://github.com/DronKaustub/Leetcode_dron/tree/master/3227-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/DronKaustub/Leetcode_dron/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/DronKaustub/Leetcode_dron/tree/master/0074-search-a-2d-matrix) |
+| [3227-find-missing-and-repeated-values](https://github.com/DronKaustub/Leetcode_dron/tree/master/3227-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/DronKaustub/Leetcode_dron/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/DronKaustub/Leetcode_dron/tree/master/1642-water-bottles) |
+| [3227-find-missing-and-repeated-values](https://github.com/DronKaustub/Leetcode_dron/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/DronKaustub/Leetcode_dron/tree/master/3321-type-of-triangle) |
 ## Dynamic Programming
 |  |
