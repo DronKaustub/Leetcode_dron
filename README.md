@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DronKaustub/Leetcode_dron/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/DronKaustub/Leetcode_dron/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/DronKaustub/Leetcode_dron/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/DronKaustub/Leetcode_dron/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/DronKaustub/Leetcode_dron/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/DronKaustub/Leetcode_dron/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/DronKaustub/Leetcode_dron/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/DronKaustub/Leetcode_dron/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/DronKaustub/Leetcode_dron/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DronKaustub/Leetcode_dron/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/DronKaustub/Leetcode_dron/tree/master/1046-max-consecutive-ones-iii) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DronKaustub/Leetcode_dron/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DronKaustub/Leetcode_dron/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/DronKaustub/Leetcode_dron/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/DronKaustub/Leetcode_dron/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/DronKaustub/Leetcode_dron/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/DronKaustub/Leetcode_dron/tree/master/1063-best-sightseeing-pair) |
 ## Sorting
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DronKaustub/Leetcode_dron/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/DronKaustub/Leetcode_dron/tree/master/0410-split-array-largest-sum) |
 ## String Matching
 |  |
 | ------- |
